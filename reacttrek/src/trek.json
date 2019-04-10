@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "Old School Captain Kirk",
+      "image": "./images/oldSchoolKirk.JPG",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "Old School Spock",
+      "image": "./images/oldSchoolSpock.JPG",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "Old School Bones",
+      "image": "./images/oldSchoolBones.JPG",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "old School Uhura",
+      "image": "./images/oldSchoolUhura.JPG",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "name": "Old School Sulu",
+      "image": "./images/oldSchoolSulu.JPG", 
+      "count": 0
+    },
+    {
+      "id": 6,
+      "name": "Old School Chekov",
+      "image": "./images/oldSchoolChekov.JPG",
+      "count": 0
+    },
+    {
+      "id": 7,
+      "name": "New School Captain Kirk",
+      "image": "./images/newSchoolKirk.JPG",
+      "count": 0
+    },
+    {
+      "id": 8,
+      "name": "New School Spock",
+      "image": "./images/newSchoolSpock.JPGG",
+      "count": 0
+    },
+    {
+      "id": 9,
+      "name": "TNew school Bones",
+      "image": "./images/newSchoolBones.JPG",
+      "count": 0
+    },
+    {
+      "id": 10,
+      "name": "New School Uhura",
+      "image": "./images/newSchoolUhura.JPG",
+      "count": 0
+    },
+    {
+      "id": 11,
+      "name": "New School Sulu",
+      "image": "./images/newSchoolSulu.JPG",
+      "count": 0
+    },
+    {
+      "id": 12,
+      "name": "INew School Chekov",
+      "image": "./images/newSchoolChekov.JPG",
+      "count": 0
+    }
+  ]
+  
