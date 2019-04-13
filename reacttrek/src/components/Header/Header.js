@@ -1,14 +1,8 @@
-// import React from "react";
-// import "./header.css";
+import React from "react";
+import "./Header.css";
 
-// const header = props => {
-//     <div className="header">
-//         <div className="title">To Boldy Click!</div>
-//         <div className="instructions">
-//             Score: {props.score} | Highscore: {props.highscore}
-//         </div>
-//     </div>
-// );
-// }
+function Header (props) {
+    return <div className="header">{props.children}</div>;
+}
 
-// export default header;
+export default Header;

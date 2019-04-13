@@ -1,13 +1,17 @@
 import React from "react";
-import "./Card";
+import "./Card.css";
 
-const Card = props =>  (
-    <div className="card">
-      <div className="img-container">
-        <img alt={props.name} src={props.clickedImageId} />
 
-      </div>
+const Card = props => (
+
+  <div className="card" onClick={() => props.pleaseWork(props.id)}>
+    <div className="img-container">
+      <img
+        className="img-thumbnail"
+        alt={props.name}
+        src={props.image} />
     </div>
-  );
+  </div>
+);
 
 export default Card;
