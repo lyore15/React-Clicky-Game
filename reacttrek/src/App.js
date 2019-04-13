@@ -30,6 +30,9 @@ class App extends Component {
     if (this.state.score > this.state.topScore) {
       this.setState({ topScore: this.state.score});
     }
+    else{
+      
+    }
   }
   shuffleImage = trek => {
     for (let i = trek.length - 1; i > 0; i--) {

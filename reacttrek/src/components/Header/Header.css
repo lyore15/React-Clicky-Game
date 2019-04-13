@@ -11,5 +11,5 @@ p {
 body {
     background-image: url(./milky-way-1845068_1920.jpg);
     background-size: 1920px;
-    background-repeat: no-repeat;
+    background-repeat: inherit;
 }
