@@ -4,7 +4,7 @@
 
 <p>Don't click the same card twice!</p>
 
-<!-- <p>Use this link to play:</p> -->
+<p>Use this link to play: https://react-game-49106.herokuapp.com/ </p>
 
 <h2>Technologies Used: </h2>
 <ul>
