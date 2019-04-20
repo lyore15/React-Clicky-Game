@@ -1,11 +1,16 @@
 h1 {
     text-align: center;
     color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
 }
 
 p {
     text-align: center;
     color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    font-size: 25px;
 }
 
 body {

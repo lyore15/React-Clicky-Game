@@ -4,9 +4,10 @@ import "./Card.css";
 
 const Card = props => (
 
-  <div className="card" onClick={() => props.pleaseWork(props.id)}>
+  <div className="card">
     <div className="img-container">
       <img
+        onClick={() => props.shuffle(props.id)}
         className="img-thumbnail"
         alt={props.name}
         src={props.image} />
